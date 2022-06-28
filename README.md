@@ -107,7 +107,7 @@
 
 ### Cloudflare Workers反代
 
-- [设置Cloudflare Workers服务](https://github.com/wy580477/PaaS-Related/blob/main/CF_Workers_Reverse_Proxy_chs.md)
+- [设置Cloudflare Workers服务](https://github.com/effhh/PaaS-Related/blob/main/CF_Workers_Reverse_Proxy_chs.md)
 - 代理服务器地址/host域名/sni（serverName）填写上面创建的Workers service域名。
 
 ### Argo 隧道配置方式
